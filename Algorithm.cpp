@@ -1,3 +1,5 @@
+//Дрягалова Светлана
+//Б18
 #include "Algorithm.h"
 #include <iostream>
 #include <fstream>
