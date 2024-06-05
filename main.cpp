@@ -1,3 +1,6 @@
+//Дрягалова Светлана
+//Б18
+
 #include <iostream>
 #include <fstream>
 #include <vector>
